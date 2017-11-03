@@ -1,0 +1,32 @@
+
+/* ----------for bootstrap - start-------------  */
+
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {	/* add 09 */
+    padding-top: 70px;
+}
+
+#about, #my-work, #contact-me{
+	padding-top: 80px;
+	//border: 1px solid yellow;
+    
+}
+
+
+/* ----------for bootstrap - end-------------  */
+
+
+
+.container{
+	//border: 3px solid #ccc;
+	//width: 800px;     /* last */
+	margin: 0 auto;   /* last */
+}
+
